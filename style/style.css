@@ -42,7 +42,8 @@ ol a {
   display: flex;
   justify-content: space-around;
   padding-top: 100px;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
   font-weight: 700;
   color: black;
   text-align: center;
@@ -106,7 +107,8 @@ ol a {
   animation: jump 0.5s ease-in-out infinite;
 }
 @keyframes jump {
-  0%, 100% {
+  0%,
+  100% {
     transform: translateY(0);
   }
   50% {
@@ -123,7 +125,8 @@ ol a {
   animation: jump 1s ease-in-out infinite;
 }
 @keyframes jump {
-  0%, 100% {
+  0%,
+  100% {
     transform: translateY(0);
   }
   50% {
@@ -144,7 +147,8 @@ ol a {
   animation: jump 0.8s ease-in-out infinite;
 }
 @keyframes jump {
-  0%, 100% {
+  0%,
+  100% {
     transform: translateY(0);
   }
   50% {
@@ -166,7 +170,8 @@ ol a {
   animation: jump 0.8s ease-in-out infinite;
 }
 @keyframes jump {
-  0%, 100% {
+  0%,
+  100% {
     transform: translateY(0);
   }
   50% {
@@ -183,7 +188,8 @@ ol a {
   animation: jump 0.7s ease-in-out infinite;
 }
 @keyframes jump {
-  0%, 100% {
+  0%,
+  100% {
     transform: translateY(0);
   }
   50% {
